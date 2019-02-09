@@ -1,0 +1,40 @@
+body {
+    text-align:center;
+    font-family:Helvetica, arial, sans-serif;
+}
+h2 {
+    font-family:Helvetica, arial, sans-serif;
+    font-size:32px;
+    font-weight: bold;
+    color:#000;
+}
+
+h3 {
+    font-family:Helvetica, arial, sans-serif;
+    font-size:23px;
+    font-weight: bold;
+    color:#000;
+}
+p {
+    font-family:Helvetica, arial, sans-serif;
+    font-size:14px;
+    font-weight: lighter;
+    color:#000;
+}
+.hero-image {
+    background-image: url('/Users/kellyfletcher1/Documents/*PERSONAL/Codecademy/Projects/Broadway/resources/images/the-flatiron-building.png');
+    text-align: center;
+    color:#fff;
+}
+
+.hero-image h1 {
+    font-size:70px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.nav a {
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+}
