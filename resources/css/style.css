@@ -33,8 +33,21 @@ p {
     color: #fff;
 }
 
+.hero-image h2 {
+    font-size:23px;
+    font-weight: bold;
+    color: #fff;
+    padding:10px 0;
+}
+
 .nav a {
     font-size: 18px;
     font-weight: bold;
     color: #fff;
+}
+
+.footer {
+    font-size: 11px;
+    background-color:dimpgray;
+    color:#fff;
 }
