@@ -46,8 +46,15 @@ p {
     color: #fff;
 }
 
-.footer {
+.footer-nav p {
+    background-color: dimgray;
     font-size: 11px;
-    background-color:dimpgray;
-    color:#fff;
+    color: white;
+    padding: 10px 0;
+}
+
+.footer-nav a {
+    font-size: 11px;
+    font-weight: bold;
+    color: #fff;
 }
